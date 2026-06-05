@@ -268,7 +268,7 @@ Você pode compartilhar e adaptar, desde que atribua a autoria e mantenha a mesm
 
 ---
 
-> ✍️ **Autor:** [Seu nome]
+> ✍️ **Autor:** Marcus Lafaiete
 > 📅 **Última atualização:** 05/06/2026
 > 🔄 **Versão:** 1.0
 > 🛠️ **Stack:** React 19.x | TypeScript | NotebookLM
